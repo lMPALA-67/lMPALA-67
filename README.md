@@ -4,5 +4,5 @@
 <img src="https://i.postimg.cc/90CqNWZ8/176434203119115751.png">
 
 <p align="center" dir="auto"> 
-<img src="https://komarev.com/ghpvc/?username=ADRlANCHASE&style=plastic&label=haters&color=blue">
+<img src="https://komarev.com/ghpvc/?username=ADRlANCHASE&style=plastic&label=haters&color=FFC7F5">
 </p> ‎ ‎ 
